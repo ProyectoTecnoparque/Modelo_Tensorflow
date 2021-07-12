@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>carros</folder>
+	<filename>car12.jpg</filename>
+	<path>C:\Users\sena\Desktop\Paquetes apps\carros\car12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Camioneta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>77</ymin>
+			<xmax>572</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

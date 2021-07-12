@@ -1,0 +1,16 @@
+item {
+    id:1
+    name:'Carro'
+}
+item {
+    id:2
+    name:'Camioneta'
+}
+item {
+    id:3
+    name:'Automovil'
+}
+item {
+    id:4
+    name:'Deportivo'
+}
